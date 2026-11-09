@@ -1,0 +1,15 @@
+{
+  "name": "webview",
+  "description": "Turn any docs into one clean, shareable web page.",
+  "owner": {
+    "name": "Prateek Bisht",
+    "url": "https://github.com/prateekbisht23"
+  },
+  "plugins": [
+    {
+      "name": "webview",
+      "source": "./",
+      "description": "Turn files, folders, pasted docs or images into one clean, self-contained web page you can open anywhere or send to anyone."
+    }
+  ]
+}

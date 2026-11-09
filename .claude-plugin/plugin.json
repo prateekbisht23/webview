@@ -1,0 +1,19 @@
+{
+  "name": "webview",
+  "version": "0.1.0",
+  "description": "Turn files, folders, pasted docs or images into one clean, self-contained web page you can open anywhere or send to anyone.",
+  "author": {
+    "name": "Prateek Bisht",
+    "url": "https://github.com/prateekbisht23"
+  },
+  "homepage": "https://github.com/prateekbisht23/webview",
+  "repository": "https://github.com/prateekbisht23/webview",
+  "license": "MIT",
+  "keywords": [
+    "docs",
+    "presentation",
+    "html",
+    "static-site",
+    "skill"
+  ]
+}
